@@ -1,0 +1,102 @@
+body{
+	
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.header{
+	background-color:#415E9B;
+	width: 100%;
+	height: 82px;
+	position:absolute;
+	top:0px;
+
+
+
+
+
+}
+#logo{
+	font-size:2.5rem;
+	font-family:klavika;
+	color: white;
+	font-weight:bold;
+	position:absolute;
+	left:9%;
+	bottom:16%;
+
+
+}
+ul{
+	display:flex;
+
+	padding:0px;
+
+
+}
+.btn{
+	background-color:#3D5B99;
+	color: white;
+	font-weight:bold;
+	margin-top:19px;
+position:absolute;
+	right:9%;
+}
+.content{
+	margin-top:9%;
+	position: relative;
+	width: 50%;
+}
+h1{
+
+	font-size:2.6rem;
+	font-family:'Freight Sans Bold', Helvetica, Arial, sans-serif;
+	margin-bottom: 0px;margin-left:32px;
+}
+#form{
+position:relative;
+}
+.in{
+	position:absolute;
+	left:33%;
+
+	width:500px;
+	height:300px;
+}
+input{
+	font-size:18px;
+}
+.name{
+	width: 180px;
+	height:30px;
+}
+.mail{
+	margin-top:9px;
+	position: relative;
+	left:0.1rem;width:380px;
+	height:30px;
+}
+.pass{
+	position:relative;
+	left:0.2rem;width:380px;
+	height:30px;margin-top:9px;
+}
+.in button{
+	width:12rem;
+	background-color: green;
+	height:2rem;
+	border-radius:4px;
+	margin-right:11.3rem;
+}
+.in button a{
+	text-decoration: none;
+	color: white;
+	font-size:1.2rem;
+	font-weight:bold;
+}
+p{
+	font-size:11px;
+margin-right:69px;
+}
